@@ -3,9 +3,4 @@ Gis is free software distributed under the GPL
 Git has mutable index called stage
 Git tracks changes
 Git tracks changes  of files
-<<<<<<< HEAD
-Creatint a new branch is quick & simple
-=======
-Creating a new branch is quick AND simple
->>>>>>> featurel
 create a new branch is quick and simple
